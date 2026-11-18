@@ -9,7 +9,7 @@ The main objective is to analyze sales data and present meaningful business insi
 ## Dashboard Preview
 
 
-![Excel Sales Dashboard](Images/Excel_Sales_Dashboard.png)
+![Excel Sales Dashboard](![Excel Sales Dashboard](Excel%20sales.png)
 ## Key Performance Indicators (KPIs)
 - Total Sales
 - Total Orders
