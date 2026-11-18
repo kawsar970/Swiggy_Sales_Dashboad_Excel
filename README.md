@@ -7,7 +7,7 @@ This project presents an interactive Sales Data Analytics Dashboard developed us
 The main objective is to analyze sales data and present meaningful business insights through interactive visualizations and KPIs.
 
 ## Dashboard Preview
-![Excel Sales Dashboard](Images/sales_dashboard_preview.png)
+![Excel Sales Dashboard](Images/Excel sales.png)
 ## Key Performance Indicators (KPIs)
 - Total Sales
 - Total Orders
